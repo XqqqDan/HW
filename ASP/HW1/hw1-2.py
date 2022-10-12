@@ -24,4 +24,5 @@ axis_x2 = np.arange(flag_y, len(yy) + flag_y)
 plt.subplot(2, 1, 2)
 plt.stem(axis_x2, yy)
 
+
 plt.show()
